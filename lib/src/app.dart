@@ -41,4 +41,6 @@ class AppState extends State<App> {
       ),
     );
   }
+
+  get(String s) {}
 }
